@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h1 {
+    color: rgb(3, 101, 101);
+}
+
+.bienvenido {
+    color: rgb(3, 78, 78);
+}
+
+section p {
+    color: rgb(69, 196, 196);
+}
+
+/.----------RESET--------/ /.----------HEADER--------/ header h1 {
+    font: style:italic;
+}
+
+header {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header nav ul {
+    display: flex;
+}
+
+header nav ul li {
+    margin: 20px;
+}
+
+header nav ul li a {
+    color: black;
+}
+}
+
+/.----------MAIN--------/ /.----------FOOTER--------/ footer {
+    background-color: :backdrop
+}
+.----------MAIN--------
+
+.hero{
+        background-color: rgb(127, 206, 255);
+        width: 100%;
+        height: 90vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+}
+.hero h1{
+    background-color: rgb(82, 162, 231);
+    display: flex;
+    
+}
+.sobrenosotros{
+    background-color: aquamarine;
+    display: flex;
+}
+.servicios{
+    background-color: blue;
+}
+.tienda{
+    background-color: grey;
+    display: flex;
+}
+.tienda{
+    text-align: center;
+    padding: 20px;
+
+
+}
+.contacto{
+    background-color: cornflowerblue;
+}
+
+
